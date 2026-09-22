@@ -14,7 +14,8 @@ public class Message {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Message de test java .?. de github");
+        System.out.println("Message ligne 1");
+        System.out.println("Message ligne 2");
     }
     
 }
