@@ -28,7 +28,7 @@ public class Message {
         System.out.println("Avant permutation : x="+x+" y="+y);
         y = x ;
         x = temp ;
-        System.out.println("Apres permutation : x="+x+" y="+y); ze*/ 
+        System.out.println("Apres permutation : x="+x+" y="+y); */ 
         
     }
     
