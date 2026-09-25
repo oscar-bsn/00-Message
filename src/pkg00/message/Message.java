@@ -29,6 +29,13 @@ public class Message {
         y = x ;
         x = temp ;
         System.out.println("Apres permutation : x="+x+" y="+y); ezfzefe*/ 
+        /* Exo 5
+        Scanner mp = new Scanner(System.in);
+        System.out.println("saisir A");
+        int a = mp.nextInt();
+        System.out.println("saisir B");
+        int b = mp.nextInt();
+        System.out.println("(A+B)*2 = "+(a+b)*2+" !");*/
         
     }
     
